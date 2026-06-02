@@ -1,0 +1,9 @@
+# System dependency (not pip-installable):
+#   JDK 17+ required for javac/javap
+#   macOS:  brew install openjdk
+#           echo 'export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"' >> ~/.zshrc
+#   Linux:  sudo apt install default-jdk   (Debian/Ubuntu)
+#           sudo dnf install java-21-openjdk-devel  (Fedora/RHEL)
+
+datasets>=2.14.0
+huggingface_hub>=0.16.0
